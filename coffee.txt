@@ -5,3 +5,6 @@ I think about coffee all of the time.
 I wish I was drinking coffee right now.
 
 Now I feel sad that I am not drinking coffee.
+
+
+Peter's commit!
